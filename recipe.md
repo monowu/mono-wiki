@@ -1,4 +1,3 @@
-# ----------
-ecipe
+# ecipe
 
 - [[Souce]]
