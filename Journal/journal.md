@@ -1,3 +1,3 @@
-# journal.md
+# journal
 
 - [[February 16, 2022]]
