@@ -1,4 +1,4 @@
 # menu
 
-- [[j]]
+- [[journal.md]]
 - [[Recipe]]
