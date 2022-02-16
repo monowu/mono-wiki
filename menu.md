@@ -1,4 +1,4 @@
 # menu
 
-- [[Daily Notes]]
+- [[]]
 - [[Recipe]]
