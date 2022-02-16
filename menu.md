@@ -1,4 +1,4 @@
 # menu
 
-- [[]]
+- [[journal]]
 - [[Recipe]]
