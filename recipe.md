@@ -1,3 +1,3 @@
 # Recipe
 
-- [[Recipe/調味料.md]]
+- [[調味料.md]]
