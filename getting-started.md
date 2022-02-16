@@ -47,5 +47,3 @@ Here they are:
 - [spellright](https://marketplace.visualstudio.com/items?itemName=ban.spellright)
 
 A special mention goes to [Markdown Links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links) and [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes) which have now been replaced by our own implementation but were foundational to Foam's beginnings.
-
-[[menu]]
