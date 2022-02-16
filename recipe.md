@@ -1,3 +1,3 @@
-# Recipe
+# recipe
 
 - [[Souce]]
